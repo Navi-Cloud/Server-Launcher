@@ -26,6 +26,8 @@ $ java -jar launcher.jar "root_path"
 ```
 $ java -jar .\ServerCustomLauncher-1.0-SNAPSHOT.jar "C:\Users\KangDroid\Desktop\kdrRoot"
 ```
+이 후, 서버가 정상적으로 실행 되었다면, http://localhost:8080 주소에 서버가 실행될 것입니다!
+
 
 주의
 ---
