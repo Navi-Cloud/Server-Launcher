@@ -5,6 +5,10 @@ Intro
 -----
 현재 Release되어 있는 서버 Jar파일을 다운 받아 커스텀 프로퍼티 파일을 자동을 생성하고, 실행까지 함께하는[?] 런쳐입니다.
 
+다운로드
+------
+[ServerCustomLauncher-1.0-SNAPSHOT.jar](https://github.com/Navi-Cloud/Server-Launcher/releases/download/V1.0.0/ServerCustomLauncher-1.0-SNAPSHOT.jar)
+
 사용 방법[macOS/Linux/Windows 동일]
 -----------------
 자바가 깔려 있다는 가정 하에,
